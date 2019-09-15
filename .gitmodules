@@ -13,3 +13,6 @@
 [submodule "AlphaSpread_Capsule"]
 	path = AlphaSpread_Capsule
 	url = https://github.com/zill4/AlphaSpread_Capsule
+[submodule "Fortnite_Guide_Capsule"]
+	path = Fortnite_Guide_Capsule
+	url = https://github.com/zill4/Fortnite_Guide_Capsule
