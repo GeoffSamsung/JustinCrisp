@@ -7,3 +7,6 @@
 [submodule "CupetStreetShelter_Capsule"]
 	path = CupetStreetShelter_Capsule
 	url = https://github.com/zill4/CupetStreetShelter_Capsule
+[submodule "Choice_Capsule"]
+	path = Choice_Capsule
+	url = https://github.com/zill4/Choice_Capsule
