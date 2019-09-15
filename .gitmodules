@@ -1,3 +1,6 @@
 [submodule "Jay"]
 	path = Jay
 	url = https://github.com/zill4/Jay
+[submodule "CinaView"]
+	path = CinaView
+	url = https://github.com/zill4/CinaView
