@@ -10,3 +10,6 @@
 [submodule "Choice_Capsule"]
 	path = Choice_Capsule
 	url = https://github.com/zill4/Choice_Capsule
+[submodule "AlphaSpread_Capsule"]
+	path = AlphaSpread_Capsule
+	url = https://github.com/zill4/AlphaSpread_Capsule
