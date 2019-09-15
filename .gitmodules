@@ -4,3 +4,6 @@
 [submodule "CinaView"]
 	path = CinaView
 	url = https://github.com/zill4/CinaView
+[submodule "CupetStreetShelter_Capsule"]
+	path = CupetStreetShelter_Capsule
+	url = https://github.com/zill4/CupetStreetShelter_Capsule
