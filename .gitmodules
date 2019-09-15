@@ -16,3 +16,6 @@
 [submodule "Fortnite_Guide_Capsule"]
 	path = Fortnite_Guide_Capsule
 	url = https://github.com/zill4/Fortnite_Guide_Capsule
+[submodule "BixbyDungeonMaster"]
+	path = BixbyDungeonMaster
+	url = https://github.com/zill4/BixbyDungeonMaster
